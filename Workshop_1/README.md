@@ -49,9 +49,7 @@ All affiliated with Universidad Distrital Francisco José de Caldas.
 
 ## 📎 Related Files
 
-- `Workshop_1.pdf`: Full report detailing the methodology and results.
-- `code/`: Folder containing the scripts used for analysis and modeling.
-- `figures/`: Visuals referenced in the report.
+- `Workshop_1.pdf`: Full report detailing the activity that was carried out.
 
 ## Notebook
 
