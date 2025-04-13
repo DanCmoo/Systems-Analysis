@@ -1,6 +1,6 @@
 # Backpack Price Prediction - Systemic Analysis Report
 
-This folder contains the report and resources for the project: **Predicting the Price of Backpacks**. The analysis was conducted as part of an academic exercise from Universidad Distrital FJDC, aiming to predict backpack prices based on various features using systemic thinking and machine learning techniques.
+This folder contains the report and resources for the project: **Predicting the Price of Backpacks**, aiming to predict backpack prices based on various features using systemic thinking and machine learning techniques.
 
 ## 📄 Overview
 
@@ -52,3 +52,10 @@ All affiliated with Universidad Distrital Francisco José de Caldas.
 - `Workshop_1.pdf`: Full report detailing the methodology and results.
 - `code/`: Folder containing the scripts used for analysis and modeling.
 - `figures/`: Visuals referenced in the report.
+
+## Notebook
+
+- Here you can find the use of code related to the system analysis:
+- 👉 [Open in Deepnote](https://deepnote.com/workspace/Taller-acb46dcd-7c34-4618-9533-c5b95652cd77/project/analisis-7f8d2950-8be9-411c-b60d-045fbd99c90b/notebook/Notebook-1-70e476adb7da443384987786b77f0e17?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=7f8d2950-8be9-411c-b60d-045fbd99c90b)
+
+This notebook contains all code used for data preprocessing, feature analysis, model training, and evaluation.
