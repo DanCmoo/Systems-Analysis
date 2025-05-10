@@ -11,7 +11,7 @@ This repository contains the system design and implementation for a machine lear
 
 ## Development Process
 ### Phase 1: Analysis (Workshop #1)
-[Refer to PDF report](https://github.com/DanCmoo/Systems-Analysis/edit/main/Workshop_2_Design/README.md) for detailed findings from initial analysis that informed this design:
+[Refer to PDF report](https://github.com/DanCmoo/Systems-Analysis/blob/d320c17f7833124ebd685d5c2ce08b71752d3cde/Workshop_1/Workshop_1.pdf) for detailed findings from initial analysis that informed this design:
 - Identified key price determinants: brand, material, size, compartments, etc.
 - Detected high sensitivity to weight capacity and material changes.
 - Observed chaotic pricing patterns in similar backpacks.
