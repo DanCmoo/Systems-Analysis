@@ -1,21 +1,21 @@
 # Backpack Price Prediction System - System Design
 
 ## Project Overview
-This repository contains the system design and implementation for a machine learning model to predict backpack prices, building upon the analysis from [Workshop #1](#workshop-1-analysis). The system addresses sensitivity and chaotic behavior in pricing patterns through robust architectural design.
+This repository contains the system design and implementation for a machine learning model to predict backpack prices, building upon the analysis from [Workshop #1](https://github.com/DanCmoo/Systems-Analysis/blob/main/Workshop_1/Workshop_1.pdf). The system addresses sensitivity and chaotic behavior in pricing patterns through robust architectural design.
 
 ## Key Features
-- Dual XGBoost models (with/without material feature)
-- Chaos theory implementation for outlier detection
-- Sensitivity analysis through partial dependence plots
-- Automated retraining mechanism
+- Dual XGBoost models (with/without material feature).
+- Chaos theory implementation for outlier detection.
+- Sensitivity analysis through partial dependence plots.
+- Automated retraining mechanism.
 
 ## Development Process
 ### Phase 1: Analysis (Workshop #1)
-[Refer to PDF report](#final-report) for detailed findings from initial analysis that informed this design:
-- Identified key price determinants: brand, material, size, compartments
-- Detected high sensitivity to weight capacity and material changes
-- Observed chaotic pricing patterns in similar backpacks
-
+[Refer to PDF report](https://github.com/DanCmoo/Systems-Analysis/edit/main/Workshop_2_Design/README.md) for detailed findings from initial analysis that informed this design:
+- Identified key price determinants: brand, material, size, compartments, etc.
+- Detected high sensitivity to weight capacity and material changes.
+- Observed chaotic pricing patterns in similar backpacks.
+  
 ### Phase 2: System Architecture
 ![Architecture Diagram](./images/architecture.png)  
 *Data flow and component interaction (see [section 3](#) in PDF report)*
