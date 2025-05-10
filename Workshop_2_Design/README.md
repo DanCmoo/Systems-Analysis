@@ -33,7 +33,7 @@ Key design decisions influenced by chaos theory:
 - Uncertainty ranges instead of fixed price predictions
 
 ## Final Deliverable
-1. [Final Report PDF](./reports/workshop2_final_report.pdf) - Complete system documentation
+1. [Final Report PDF](https://github.com/DanCmoo/Systems-Analysis/blob/1e76f63c385b3099bb8051ca4d8bc619566f90a4/Workshop_2_Design/Workshop_2.pdf) - Complete system documentation
 
 ## References
 1. Kaggle Competition: [Playground Series - Season 5, Episode 2](https://www.kaggle.com/competitions/playground-series-s5e2)
