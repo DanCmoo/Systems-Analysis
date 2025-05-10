@@ -1,4 +1,4 @@
-# Backpack Price Prediction System - Workshop #2
+# Backpack Price Prediction System - System Design
 
 ## Project Overview
 This repository contains the system design and implementation for a machine learning model to predict backpack prices, building upon the analysis from [Workshop #1](#workshop-1-analysis). The system addresses sensitivity and chaotic behavior in pricing patterns through robust architectural design.
