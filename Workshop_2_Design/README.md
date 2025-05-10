@@ -20,7 +20,7 @@ This repository contains the system design and implementation for a machine lear
 For this phase, the functional and non-functional requirements approach was carried out.
 
 ### Phase 3: System Architecture
-![Architecture Diagram](https://github.com/DanCmoo/Systems-Analysis/blob/01e0d184a657b408f2cc7eeab95b08cef25d2cf6/Workshop_2_Design/Architecture_Img.pdf)
+[Architecture Diagram](https://github.com/DanCmoo/Systems-Analysis/blob/01e0d184a657b408f2cc7eeab95b08cef25d2cf6/Workshop_2_Design/Architecture_Img.pdf)
 )  
 *Data flow and component interaction (see [section 3](#) in PDF report)*
 
