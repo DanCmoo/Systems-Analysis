@@ -17,7 +17,8 @@ This repository contains the system design and implementation for a machine lear
 - Observed chaotic pricing patterns in similar backpacks.
   
 ### Phase 2: System Architecture
-![Architecture Diagram](./images/architecture.png)  
+![Architecture Diagram](![image](https://github.com/user-attachments/assets/cba214eb-165c-435c-a211-365836bc59b1)
+)  
 *Data flow and component interaction (see [section 3](#) in PDF report)*
 
 Key design decisions influenced by chaos theory:
@@ -33,8 +34,6 @@ Technical stack highlights:
 
 ## Final Deliverables
 1. [Final Report PDF](./reports/workshop2_final_report.pdf) - Complete system documentation
-2. [Jupyter Notebooks](./notebooks/) - Analysis and model development
-3. [API Implementation](./src/) - Flask/FastAPI deployment code
 
 ## How Chaos Theory Informed Design
 1. **Butterfly Effect Mitigation**  
