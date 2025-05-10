@@ -1,7 +1,7 @@
 # Backpack Price Prediction System - System Design
 
 ## Project Overview
-This repository contains the system design and implementation for a machine learning model to predict backpack prices, building upon the analysis from [Workshop #1](Workshop_1/Workshop_1.pdf). The system addresses sensitivity and chaotic behavior in pricing patterns through robust architectural design.
+This repository contains the system design and implementation for a machine learning model to predict backpack prices, building upon the analysis from [Workshop #1](https://github.com/DanCmoo/Systems-Analysis/blob/d320c17f7833124ebd685d5c2ce08b71752d3cde/Workshop_1/Workshop_1.pdf). The system addresses sensitivity and chaotic behavior in pricing patterns through robust architectural design.
 
 ## Key Features
 - Dual XGBoost models (with/without material feature).
